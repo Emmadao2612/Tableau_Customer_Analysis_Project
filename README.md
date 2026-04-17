@@ -4,8 +4,7 @@
   <img src="images/1_customer_segmentation_dashboard.png" alt="Contoso Customer Analysis Dashboard Overview">
 </a>
 
-> <a href="https://public.tableau.com/views/ContosoDashboards_17763863673810/CustomerSegmentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
-📊 View interactive dashboards here on the Tableau Public</a>
+> <a href="https://public.tableau.com/app/profile/emma.dao/viz/ContosoDashboards_17763863673810/CustomerSegmentation" target="_blank">📊 View interactive dashboards here on the Tableau Public</a>
 
 ---
 
